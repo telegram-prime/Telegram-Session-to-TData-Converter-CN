@@ -2,7 +2,7 @@
 ## 将 Telegram 会话格式文件转换为 Telegram TData 格式。
  
  * Описание программы так же доступно на русском языке. См. [S2TD Coverter RUS](https://github.com/telegram-prime/) [In progress]
- * 描述也可以在Chineese中提供。 参见 [S2TD Coverter CN](https://github.com/telegram-prime/) [In progress]
+ * Description also avalable in English [See S2TD Coverter EN](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter)
 
 
 ## 转换器使用户能够：
