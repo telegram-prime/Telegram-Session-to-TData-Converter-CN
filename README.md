@@ -18,6 +18,9 @@
 
 ## 我们提供 24 小时免费试用期，在此期间，用户将获得 5 次转换（操作）以在购买前进行测试并确保一切正常。
 
+## 下载:
+ - [总是最新版本](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-CN/releases/latest)
+
 
 ## 试用期结束后，该产品可通过多种付费订阅获得：
   - 1. 100 次转换（操作），为期 30 天（以先到者为准）。
