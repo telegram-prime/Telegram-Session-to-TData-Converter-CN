@@ -42,6 +42,7 @@
 ##  联系人：
 - 电子邮件： manager[@]telegramprime.net
 - Telegram: [发信息](https://telegramprime.net/telegram-contact)
+- ICQ: https://icq.im/TelegramPrime
 
 * 或通过我们的 Telegram PRIME 网站上的联系表：
 - Wеb: https://telegramprime.net/ - EN Version
