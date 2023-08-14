@@ -8,6 +8,8 @@
 ## 功能：
   - 将 Telegram .session 格式文件转换为 Telegram TData 格式；
   - 使用、控制和调整用于连接会话的设备设置；
+  - 使用 .json 文件中的设备设置；
+  - 选择创建新帐户的会话或保留旧帐户的会话；
   - 为每个会话连接使用唯一的 HTTP 或 SOCKS5 代理（支持多行）；
   - 从 .json 文件（使用 Jsom 模式）或手动 2FA 输入（不使用 Jsom 模式）自动导入 TData 的 2FA；
   - 如果未连接，则跳过不良会话；
@@ -30,9 +32,8 @@
 
 ## 截图：
 
-<img width="392" alt="S2TD_Screen_CN_1" src="https://user-images.githubusercontent.com/94137664/200432828-0c1b2c7b-0a74-446f-a9e5-0c49166f7d01.png"> <img width="392" alt="S2TD_Screen_CN_2" src="https://user-images.githubusercontent.com/94137664/200432820-b936ed30-cb25-401f-aede-3d2a137865be.png">
-<img width="392" alt="S2TD_Screen_CN_3" src="https://user-images.githubusercontent.com/94137664/200432811-e62383cb-823e-4a09-97b0-6cd55bb9385c.png"> <img width="391" alt="S2TD_Screen_CN_4" src="https://user-images.githubusercontent.com/94137664/200433027-a87ed8a1-c810-4057-9b17-4a3dd6023c33.png">
-<img width="392" alt="S2TD_Screen_CN_5" src="https://user-images.githubusercontent.com/94137664/200432787-ffe5d35b-3cd7-4fa3-aa17-545c0089e3b3.png"> <img width="393" alt="S2TD_Screen_CN_6" src="https://user-images.githubusercontent.com/94137664/200432780-99c34082-fb15-4fae-843a-89b7fa11060b.png">
+![S2TD_v 1 5 _CN_001](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-CN/assets/94137664/ff6701a2-59d8-4adc-bde1-6cab46923e0b) ![S2TD_v 1 5 _CN_002](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-CN/assets/94137664/08e84c8a-5ba5-4114-898e-682c319edf67)
+![S2TD_v 1 5 _CN_003](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-CN/assets/94137664/6310277b-0db7-4a28-ac2b-f79c66f5b314) ![S2TD_v 1 5 _CN_004](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-CN/assets/94137664/66237dce-c105-456e-a0fe-788cf63fe0d1)
 
 
 - [Youtube 视频](https://youtu.be/_U3eIo_22J0)
@@ -50,3 +51,4 @@
 ## 捐款：
 * [给我们买杯咖啡:)](https://commerce.coinbase.com/checkout/a0495346-539e-48df-9b43-880a3b93dc8b)
 * 谢谢！
+
