@@ -40,7 +40,7 @@
 
 ##  联系人：
 - 电子邮件： manager[@]telegramprime.net
-- Telegram: @TGG_Sales
+- Telegram: [发信息](https://telegramprime.net/telegram-contact)
 
 * 或通过我们的 Telegram PRIME 网站上的联系表：
 - Wеb: https://telegramprime.net/ - EN Version
