@@ -40,9 +40,10 @@
 
 
 ##  联系人：
-- 电子邮件： manager[@]telegramprime.net
-- Telegram: [发信息](https://telegramprime.net/telegram-contact)
-- ICQ: https://icq.im/TelegramPrime
+- Email:    manager[@]telegramprime.net
+- Telegram: [Send message](https://telegramprime.com/telegram-contact)
+- ICQ:      [Send message](https://telegramprime.com/icq-contact)
+- TamTam:   [Send message](https://telegramprime.com/tamtam-contact)
 
 * 或通过我们的 Telegram PRIME 网站上的联系表：
 - Wеb: https://telegramprime.net/ - EN Version
