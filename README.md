@@ -1,21 +1,22 @@
 # S2TD 转换器 - 电报帐户 .session 到 TData 转换器。
-## 将 Telegram 会话格式文件转换为 Telegram TData 格式。
+## 将Telegram会话或会话+json格式文件转换为Telegram TData格式。
  
+ * Description is also available in English. Please See: [S2TD Coverter CN](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter)
  * Описание программы так же доступно на русском языке. См. [S2TD Coverter RUS](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/)
- * 描述也可以在Chineese中提供。 参见 [S2TD Coverter CN](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-CN)
 
 
 ## 功能：
-  - 将 Telegram .session 格式文件转换为 Telegram TData 格式；
-  - 使用、控制和调整用于连接会话的设备设置；
-  - 使用 .json 文件中的设备设置；
-  - 选择创建新帐户的会话或保留旧帐户的会话；
-  - 为每个会话连接使用唯一的 HTTP 或 SOCKS5 代理（支持多行）；
-  - 从 .json 文件（使用 Jsom 模式）或手动 2FA 输入（不使用 Jsom 模式）自动导入 TData 的 2FA；
-  - 如果未连接，则跳过不良会话；
-  - 对不好的会话进行分类以分开文件夹。
-  - 保存操作日志；
-  - 操作前备份源文件。
+- 将Telegram .session格式文件转换为Telegram TData格式;
+- 多线程工作;
+- 使用、控制和调整用于连接到会话的设备设置;
+- 使用.json文件中的设备设置;
+- 选择创建新账户的会话还是保留旧的会话;
+- 为每个与会话的连接使用唯一的HTTP或SOCKS5代理(支持多行);
+- 从.json文件自动导入TData的2FA(Json模式)或手动输入2FA(无Json模式);
+- 如果未连接，则跳过不良会话;
+- 将不良和良好的会话分别分类到不同的文件夹中。
+- 保存操作日志;
+- 在操作之前备份源文件。
 
 
 ## 我们提供 24 小时免费试用期，在此期间，用户将获得 5 次转换（操作）以在购买前进行测试并确保一切正常。
@@ -30,13 +31,15 @@
   - 3. 生命周期内无限次数的转换（操作）。
 
 
+## 视频
+- [Youtube](https://youtu.be/nNqsgTEw_2I)
+
+
 ## 截图：
 
-![S2TD_v 1 5 _CN_001](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-CN/assets/94137664/ff6701a2-59d8-4adc-bde1-6cab46923e0b) ![S2TD_v 1 5 _CN_002](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-CN/assets/94137664/08e84c8a-5ba5-4114-898e-682c319edf67)
-![S2TD_v 1 5 _CN_003](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-CN/assets/94137664/6310277b-0db7-4a28-ac2b-f79c66f5b314) ![S2TD_v 1 5 _CN_004](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-CN/assets/94137664/66237dce-c105-456e-a0fe-788cf63fe0d1)
+![S2TD_v 1 6 _CN_001](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-CN/assets/94137664/63f8a476-8f40-4f62-aebb-caf606ae711a) ![S2TD_v 1 6 _CN_002](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-CN/assets/94137664/ee3ccebf-9c81-47c3-a36d-7d13e42d84b1)
+![S2TD_v 1 6 _CN_003](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-CN/assets/94137664/7193d028-a49d-42d6-a62d-4ba19b53aa40) ![S2TD_v 1 6 _CN_004](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-CN/assets/94137664/c8e3fe6d-c4ef-4fa2-842b-b151c47fb4ba)
 
-
-- [Youtube 视频](https://youtu.be/_U3eIo_22J0)
 
 
 ##  联系人：
@@ -44,6 +47,7 @@
 - Telegram: [Send message](https://telegramprime.com/telegram-contact)
 - ICQ:      [Send message](https://telegramprime.com/icq-contact)
 - TamTam:   [Send message](https://telegramprime.com/tamtam-contact)
+- Element:  [Send message](https://telegramprime.net/element-contact)
 
 * 或通过我们的 Telegram PRIME 网站上的联系表：
 - Wеb: https://telegramprime.net/ - EN Version
@@ -51,6 +55,6 @@
 
 
 ## 捐款：
-* [给我们买杯咖啡:)](https://commerce.coinbase.com/checkout/a0495346-539e-48df-9b43-880a3b93dc8b)
+* [给我们买杯咖啡:)](https://nowpayments.io/donation/telegramprime)
 * 谢谢！
 
