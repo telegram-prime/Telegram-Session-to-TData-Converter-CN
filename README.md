@@ -46,7 +46,7 @@
 | **30 天 / 1 000 次** | 先到先得 |
 | **365 天 / 10 000 次** | 先到先得 |
 | **终身 / Unlimited** | 无限次转换 |
-
+| Discord | [Send message](https://telegram-converter.comt/discord-contact) |
 ---
 
 ## 📥 下载
@@ -72,11 +72,11 @@
 
 | 渠道 | 链接 |
 |------|------|
-| Email | manager[@]telegramprime.net |
-| Telegram | [发送消息](https://telegramprime.net/telegram-contact) |
-| Matrix | [发送消息](https://telegramprime.net/element-contact) |
-| 网站 (EN) | https://telegramprime.net/ |
-| 网站 (RU) | https://telegramprime.com/ |
+| Email | manager[@]telegram-converter.com |
+| Telegram | [发送消息](https://telegram-converter.com/telegram-contact) |
+| Discord | [发送消息](https://telegram-converter.com/discord-contact) |
+| Matrix | [发送消息](https://telegram-converter.com/matrix-contact) |
+| 网站 | https://telegram-converter.com/ |
 
 ---
 
