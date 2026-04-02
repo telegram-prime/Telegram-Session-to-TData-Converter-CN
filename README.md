@@ -5,8 +5,8 @@
 
 ## 📚 多语言支持
 - 简体中文 – 本页  
-- Русский – [S2TD Converter RU](https://github.com/telegram-converter/Telegram-Session-to-TData-Converter-RU/)  
-- English – [S2TD Converter EN](https://github.com/telegram-converter/Telegram-Session-to-TData-Converter)
+- Русский – [S2TD Converter RU](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter-RU/)  
+- English – [S2TD Converter EN](https://github.com/telegram-prime/Telegram-Session-to-TData-Converter)
 
 ---
 
